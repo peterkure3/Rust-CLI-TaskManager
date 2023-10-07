@@ -1,0 +1,11 @@
+D:\IAMGROOT\Rust-projects\cli_taskman\target\debug\deps\prettytable-e37cde2770b2b6ad.rmeta: C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\lib.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\cell.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\row.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\format.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\utils.rs
+
+D:\IAMGROOT\Rust-projects\cli_taskman\target\debug\deps\libprettytable-e37cde2770b2b6ad.rlib: C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\lib.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\cell.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\row.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\format.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\utils.rs
+
+D:\IAMGROOT\Rust-projects\cli_taskman\target\debug\deps\prettytable-e37cde2770b2b6ad.d: C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\lib.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\cell.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\row.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\format.rs C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\utils.rs
+
+C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\lib.rs:
+C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\cell.rs:
+C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\row.rs:
+C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\format.rs:
+C:\Users\PETER-K\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prettytable-rs-0.6.7\src\utils.rs:
